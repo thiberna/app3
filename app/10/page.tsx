@@ -5,7 +5,6 @@ import Image from "next/image"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Progress } from "@/components/ui/progress"
-import { URLS } from "@/constants/urls"
 import { useProgress } from "@/contexts/ProgressContext"
 import Link from "next/link"
 
